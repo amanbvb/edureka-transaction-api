@@ -1,1 +1,2 @@
 http://petstore.swagger.io/
+This is change to next tag v1.2
